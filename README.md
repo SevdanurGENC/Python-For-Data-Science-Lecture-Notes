@@ -6,10 +6,10 @@ In this repo, I have the course contents of Python for Data Science training, wh
 
 Bu repoda, 28 Haziran - 1 Temmuz 2022 tarihleri arasında Academy Peak Bilgi Teknolojileri Eğitim ve Danışmanlık işbirliği ile Siemens'e verilecek olan Veri Bilimi için Python eğitiminin ders içerikleri bulunmaktadır.
 
-1. GÜN
+## 1. GÜN
 
-2. GÜN
+## 2. GÜN
 
-3. GÜN
+## 3. GÜN
 
-4. GÜN
+## 4. GÜN
