@@ -12,9 +12,14 @@ Bu repoda, 28 Haziran - 1 Temmuz 2022 tarihleri arasında Academy Peak Bilgi Tek
 
 ## 2. GÜN
 - Manipulation
+- Preprocessing 01
 
 ## 3. GÜN
-- Preprocessing
+- Preprocessing 02
+- Visualization 01
+- WorkShop 01
 
 ## 4. GÜN
-- Visualization
+- Visualization 02
+- Intro to Machine Learning
+- WorkShop 02
